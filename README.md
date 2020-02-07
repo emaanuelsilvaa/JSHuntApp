@@ -7,6 +7,10 @@ Primeiro é necessário ter um ambiente com todas as ferramentas necessárias pa
 
 Com as dependências instaladas, basta abir o emulador do android ou conectar um dispositivo android com depuração USB ativada, e executar o aplicativo utilizando o comando via terminal react-native run-android. Se tudo ocorrer bem, será possível visualizar a execução do aplicativo no dispositivo aberto.
 
+<p align="center">
+  <img src="imgs/huntappGif.gif"/>
+</p>
+
 
 
 ## Meta
